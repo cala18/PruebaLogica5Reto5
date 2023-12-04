@@ -1,0 +1,14 @@
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\bin\Debug\net7.0\PruebaLogica5.exe
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\bin\Debug\net7.0\PruebaLogica5.deps.json
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\bin\Debug\net7.0\PruebaLogica5.runtimeconfig.json
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\bin\Debug\net7.0\PruebaLogica5.dll
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\bin\Debug\net7.0\PruebaLogica5.pdb
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.dll
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\refint\PruebaLogica5.dll
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.pdb
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\PruebaLogica5.genruntimeconfig.cache
+C:\Users\braya\OneDrive\Documentos\PruebaLogica5\obj\Debug\net7.0\ref\PruebaLogica5.dll
